@@ -1,4 +1,4 @@
-# Analysis3-US-Drug-Seizures
+# Analysis-3-US-Drug-Seizures
 Data analysis on drug seizures in the United States
 
 Programs used for SQL queries and data visualizations:
