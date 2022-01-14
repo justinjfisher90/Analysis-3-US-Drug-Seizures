@@ -13,10 +13,10 @@ with similar populated countries.
 The queries I wrote to pull data are
 listed below. These queries answered questions such as: 
 
-Total seizures by year
-Top drug seizures by decade
-Drug type seizures
-specific drug seizures
+<br>Total seizures by year
+<br>Top drug seizures by decade
+<br>Drug type seizures
+<br>specific drug seizures
 
 ![alt text](https://github.com/justinjfisher90/Analysis3-US-Drug-Seizures/blob/main/sqlsc.PNG)
 
